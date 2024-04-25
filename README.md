@@ -7,32 +7,28 @@
 ```
 Select records that have matching values in both tables
 ```
-
-![imagen](inner-join.PNG)
+![inner-join](https://github.com/amadr-95/sql-advanced/assets/122611230/50f2cfe0-f0b9-41f2-a0d0-c25de95e80da)
 
 ### - (OUTER) LEFT JOIN
 
 ```
 Select records from the left table with matching right table records
 ```
-
-![imagen](left-join.PNG)
+![left-join](https://github.com/amadr-95/sql-advanced/assets/122611230/19f65391-977d-4484-ae9a-50ee14561201)
 
 ### - (OUTER) RIGHT JOIN
 
 ```
 Select records from the right table with matching left table records
 ```
-
-![imagen](right-join.PNG)
+![right-join](https://github.com/amadr-95/sql-advanced/assets/122611230/1303d790-3b38-432d-bf57-6fc0bf115dc7)
 
 ### - FULL JOIN
 
 ```
 Select all records that match either left or right table records
 ```
-
-![imagen](full-join.PNG)
+![full-join](https://github.com/amadr-95/sql-advanced/assets/122611230/8dc8c372-fa90-45bc-9ace-0f2647531f39)
 
 ## TRANSACTIONS (A.C.I.D. PRINCIPLES)
 
